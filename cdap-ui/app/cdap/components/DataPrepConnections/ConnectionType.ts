@@ -25,4 +25,5 @@ export enum ConnectionType {
   KAFKA = "KAFKA",
   SPANNER = "SPANNER",
   ADLS = "ADLS",
+  HIVE = "HIVE",
 }
